@@ -10,7 +10,7 @@ https://github.com/asweigart/pygcurse
 Released under a Simplified BSD License
 """
 
-__version__ = '0.10.3'
+__version__ = '1.0.1'
 
 import time
 import datetime

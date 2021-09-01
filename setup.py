@@ -29,7 +29,7 @@ setup(
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     test_suite="tests",
-    install_requires=[],
+    install_requires=['pygame'],
     keywords="pygame curses ncurses console text game 2D graphics",
     classifiers=[
         "License :: OSI Approved :: MIT License",
